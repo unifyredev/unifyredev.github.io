@@ -1,0 +1,55 @@
+
+
+
+@media only screen and (min-width:768px) and (max-width:1100px){
+h1  {font-size:35px;}
+h2 {font-size:28px;}
+#header {padding:40px 0px 0;}
+.tagline-description {width:44%;}
+.tagline-graphic {width:56%;}
+.tagline-description h5 {font-size: 34px; line-height:normal;}
+.unifyre-tagline {padding-bottom:115px;}
+.static-pattran-wrapper .static-pattran, .static-pattran  {display:none;}
+.logos {margin:0 0 30px;}
+}
+
+@media only screen and (min-width:768px) and (max-width:980px){
+.user-count {display:block; margin-top: 8px;}
+	
+}	
+
+@media only screen and (max-width: 767px) {
+h1  {font-size:30px;}
+h2 {font-size:28px;}
+#header {padding:40px 0px 0; text-align:center;}
+.logos {margin:0 0 30px;}
+.tagline-graphic {float:none; width: 100%; padding-left:0%;}
+.tagline-description {float:none; width:100%; padding-bottom:110px;}
+.tagline-description h5 {font-size:32px; line-height:42px;}
+.main-content {padding:45px 0 0;}
+.our-mission {text-align:center;}
+.static-pattran-wrapper .static-pattran, .static-pattran, .TimelineArrow_border   {display:none;}
+.works-steps blockquote {margin:0 0 20px; font-size:22px; line-height:normal;}
+.steps-description h5 {font-size:18px;}
+.newsletter-inner h4 {font-size:20px;}
+#mce-EMAIL {margin-bottom:15px; margin-right:0px;}
+.benefits .container, .about .container, .works-short-description  {padding:0 15px;}
+.benefits, .about  {padding:40px 0px;}
+.partners-row1 li {margin:0 15px;}
+#footer {padding:0 0 20px;}
+.partners .container {background:#fff!important;}
+.partners li {display: block;}
+.steps-col-7, .steps-col-5 {width:100%; float:none;}
+.steps-number span {margin: 0 auto;}
+.steps-row, .works-steps {text-align:center;}
+.works-steps blockquote, .user-count {display: inline-block;}
+.steps-description {margin:0 auto;}
+.works-short-description {margin-bottom:50px;}
+.step2 .steps-description {float:none;}
+.works-steps {margin-bottom:30px;}
+.partners .partners-row {margin:0;}
+
+}
+
+
+

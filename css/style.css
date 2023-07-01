@@ -1,0 +1,214 @@
+@font-face {
+  font-family: 'GTWalsheimProLight';
+  src: url('../fonts/GTWalsheimProLight.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/GTWalsheimProLight.woff') format('woff'),
+  url('../fonts/GTWalsheimProLight.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProLight.svg#GTWalsheimProLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.works-steps blockquote, .newsletter-inner h6, .footer-menu ul li a  {font-family: 'GTWalsheimProLight';}
+
+
+@font-face {
+  font-family: 'GTWalsheimProThin';
+  src: url('../fonts/GTWalsheimProThin.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/GTWalsheimProThin.woff') format('woff'), 
+  url('../fonts/GTWalsheimProThin.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProThin.svg#GTWalsheimProThin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.tagline-description  h5 { font-family: 'GTWalsheimProThin';}
+
+@font-face {
+  font-family: 'GTWalsheimProRegular';
+  src: url('../fonts/GTWalsheimProRegular.eot?#iefix') format('embedded-opentype'), 
+  url('../fonts/GTWalsheimProRegular.woff') format('woff'), 
+  url('../fonts/GTWalsheimProRegular.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProRegular.svg#GTWalsheimProRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.steps-description h5 span, .user-count, #footer p  {font-family: 'GTWalsheimProRegular';}
+
+@font-face {
+  font-family: 'GTWalsheimProMedium';
+  src: url('../fonts/GTWalsheimProMedium.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/GTWalsheimProMedium.woff') format('woff'), 
+  url('../fonts/GTWalsheimProMedium.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProMedium.svg#GTWalsheimProMedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GTWalsheimProBold';
+  src: url('../fonts/GTWalsheimProBold.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/GTWalsheimProBold.woff') format('woff'), 
+  url('../fonts/GTWalsheimProBold.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProBold.svg#GTWalsheimProBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.newsletter-inner h4, #mce-EMAIL  {font-family: 'GTWalsheimProBold';}
+
+@font-face {
+  font-family: 'GTWalsheimProBold-Oblique';
+  src: url('../fonts/GTWalsheimProBold-Oblique.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/GTWalsheimProBold-Oblique.woff') format('woff'), 
+  url('../fonts/GTWalsheimProBold-Oblique.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProBold-Oblique.svg#GTWalsheimProBold-Oblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.steps-description h5  {font-family:'GTWalsheimProBold-Oblique';}
+
+
+@font-face {
+  font-family: 'GTWalsheimProBlack';
+  src: url('../fonts/GTWalsheimProBlack.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/GTWalsheimProBlack.woff') format('woff'), 
+  url('../fonts/GTWalsheimProBlack.ttf')  format('truetype'), 
+  url('../fonts/GTWalsheimProBlack.svg#GTWalsheimProBlack') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ #header h1 { font-family:'GTWalsheimProBlack';}
+
+
+/* Global */
+.how-it-work .work-description p, .subscribe-description p, .non-profit p, .how-it-work p   {font-family:'GTWalsheimProRegular'; font-weight: normal;}
+.how-it-work .work-description p strong, .steps-number span, #mc-embedded-subscribe  {font-family: 'GTWalsheimProBold';}
+
+body{font-family: 'GTWalsheimProLight'; font-size:21px; color:#394153; background:#f9f5f5;}
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ol, ul, li,footer, header,section,figure{ margin: 0;padding: 0;border: 0;font-size: 100%;box-sizing:border-box;}
+header, footer, section, aside, nav, article{display:block;}
+a{text-decoration:none;}
+ul {padding:0; margin:0; list-style:none;}
+.text-uppercase{text-transform:uppercase;}
+.align-left {text-align:left;}
+.align-center {text-align:center;}
+.container {max-width:1110px; width:100%; margin:0 auto; padding:0px 15px;}
+html { box-sizing:border-box;}
+*, *:before, *:after {box-sizing:inherit;}
+img {max-width:100%;}
+p {margin:0 0 20px; color:#394153; font-size:21px;}
+.participate-steps:after,.retention-steps:after, .real-time-feed:after,.container:after, .unifyre-tagline:after, .mission-description:after, .works-steps:after, .steps-row:after   {font-size:0px; line-height:0px; height:0px; content:'.'; visibility:hidden; display:block; clear:both;}
+input:focus {outline:0px;}
+
+
+h1 {
+  color:#394153;
+  font-family: 'GTWalsheimProBold';
+  font-size:50px;
+  text-transform: uppercase;
+  margin:0 0 15px;
+}
+h2 {
+  color:#394153;
+  font-family: 'GTWalsheimProBold';
+   font-size:40px;
+   text-transform:capitalize;
+   margin:0 0 15px;
+   line-height: 42px;
+}
+.text-center {text-align:center;}
+.text-left {text-align:left;}
+
+h4 {color:#394153; font-family: 'GTWalsheimProMedium'; font-size:36px;   margin:0 0 15px;}
+
+
+/* Header */
+#header { padding:80px 0px 0; background:url(../images/header-background.jpg) no-repeat; background-size:cover; position:relative;}
+.logos {margin:0 0 60px; max-width:200px; width:100%;}
+#header h1 {color:#fff;}
+.unifyre-tagline {margin:25px 0 0;}
+.tagline-description {float:left; width:39%;padding-top: 25px;}
+.tagline-graphic {float:right; width:61%; padding-left: 4%;}
+.tagline-description  h5 {color:#ffffff; font-size:45px;line-height:50px;}
+.shake-hand  { text-align:center;}
+.shake-hand  img {width:100%; margin-top: -100px; margin-bottom:-8px;}
+
+
+/* content */
+.main-content {padding:0;}
+.hightlight-text {background:#f57641; color:#fff; padding:1px 5px; line-height:normal; display:inline-block;}
+.mission-text {float:left; width:60%;}
+.pattran {float:left; width:40%;}
+.our-mission {margin:0 0 40px;}
+.our-mission h2 {margin: 0 0 35px;}
+/* how it works */
+.static-pattran-wrapper {position:relative;}
+.static-pattran-wrapper .static-pattran {left:auto; right:-123px; top:-72px;}
+.how-it-works { margin-bottom:75px;}
+.how-it-works h2 {margin: 0 0 25px;}
+.works-short-description {padding:0 50px;}
+.steps-col-7 {float:left; width:52%;}
+.steps-col-5{float:left; width:48%;}
+.steps-number {margin:0 0 25px;}
+.steps-number span {background:#f57641; font-size:40px; text-align:center; width:58px; height:58px; border-radius:3px; display: block; color:#fff;}
+.steps-description {max-width:380px; width:100%; margin-top:65px;}
+.steps-description h5 {color:#394153; font-size:21px; line-height:28px; margin:0 0 25px;}
+.steps-row {margin:20px 0 0;}
+.works-steps {padding:0 15px;}
+.works-steps blockquote {font-size:27px; color:#f57641; border-left:3px solid #f57641; padding-left:20px; margin:0px; line-height: 36px;}
+.progress-bar {border-left:3px solid #f57641; padding-left:20px;}
+.progress-bar blockquote {border-left:none; padding-left:0px; margin: 0 0 20px;}
+.user-count {background:url(../images/user.png) no-repeat; padding-left:30px; margin-left:15px; font-size:16px; padding-bottom: 4px;}
+.step2 .steps-description {max-width:410px; margin-top:34px; float:right;}
+.step2 .steps-col-5 {float: right;}
+.step3 .steps-description {margin-top:15px; max-width:470px;}
+.steps-row.step2 { position: relative;}
+.static-pattran {position:absolute; left:-100px; top:0px;}
+/* Email newsletter */
+#mce-EMAIL { max-width:410px; width:100%; color:#394153; font-size:17px; background-color: #fff; border-radius:25px; -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075); box-shadow:inset 0 1px 1px rgba(0,0,0,.075); -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s; padding:8px 25px; height:48px; border: 1px solid #ececec; margin-right:20px; -webkit-box-shadow: 1px 0px 10px -5px rgba(0,0,0,0.35);
+-moz-box-shadow: 1px 0px 10px -5px rgba(0,0,0,0.35);
+box-shadow:1px 0px 10px -5px rgba(0,0,0,0.35);}
+#mc-embedded-subscribe { background-color:#f57641; color:#fff; padding:0 26px; font-size:17px;  border-radius:25px; border:none; cursor:pointer; height:48px; min-width: 130px;}
+.email-newsletter .container {max-width:820px;}
+#mc-embedded-subscribe:hover  {background-color:#ff1660;}
+.newsletter-inner {background:#fff url(../images/newsletter-pattren.jpg) repeat; -webkit-border-radius: 15px; -moz-border-radius: 15px; border-radius: 15px; padding: 42px 20px; -webkit-box-shadow:-1px 4px 25px -10px rgba(0,0,0,0.2); -moz-box-shadow:-1px 4px 25px -10px rgba(0,0,0,0.2); box-shadow:-1px 4px 25px -10px rgba(0,0,0,0.2);}
+.newsletter-inner h4 {color:#394153; font-size:28px;}
+.newsletter-inner h6 {color:#394153; font-size:20px; margin:0 0 20px;}
+.email-newsletter {margin:0 0 100px;}
+/* benefits */
+.benefits {background:#394153; padding:60px 0px; color:#fff;}
+.benefits h2 {color:#fff; margin:0 0 30px; text-transform:none;}
+.benefits p {color:#fff; margin:0 0 40px;}
+.benefits p:last-child {margin:0;}
+.benefits p a  {color:#fff;}
+.benefits p a:hover   {text-decoration:underline;}
+.benefits .container {padding: 0 45px;}
+.mailto {font-size:30px;}
+/* about */
+.about  {padding:60px 0px; background:#fff;}
+.about h2 {margin:0 0 30px;}
+.about .container {padding:0px 65px; position:relative;}
+.about .static-pattran  {left:auto; top: 0px; right: -110px;}
+
+/* partners */
+.partners { margin:0px; padding:20px 0px 50px; background: #fff;}
+.partners .container {background: #fff url(../images/pattran.png) no-repeat -2px 90px;}
+.partners ul {margin:0px; padding:0px;}
+.partners li {list-style:none; display:inline-block; margin:0 35px;}
+.partners .partners-row {margin:0 0 50px;}
+.partners-row1 li {margin:0 115px;}
+
+/* footer */
+#footer {text-align:center; background:#fff; padding:0 0 40px;}
+.footer-menu ul {margin:0 0 8px;}
+.footer-menu ul li a { color:#f57641;   font-size:17px;  text-decoration:none; padding:0 5px;}
+.footer-menu ul li { display: inline-block; border-right: 2px solid #d7d7d7; line-height: normal; padding: 0 18px;
+line-height: 22px;}
+.footer-menu ul li:last-child { border-right:0px;}
+#footer p { color:#3e4657;font-size:16px;}
+.footer-menu ul li a:hover {color: #394153;}
+
